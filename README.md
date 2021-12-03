@@ -15,10 +15,7 @@ Software engineering student in Manisa Celal Bayar University.
  <a href="https://github.com/mtaltn"><img title="Mehmet Tekin ALTUN" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtaltn&layout=compact&theme=dark" width=450></a><br>
 </p>
 
-<h1>Status</h1>
- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mtaltn&&show_icons=true&theme=dark&line_height=27&v=5" width=450 alt="mtaltn's GitHub Stats" /><br>
- </p>
+
 
  <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mtaltn&&show_icons=true&theme=radical&line_height=27&v=5" alt="mtaltn's GitHub Stats" /><br>
