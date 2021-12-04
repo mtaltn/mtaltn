@@ -20,5 +20,5 @@ Software engineering student in Manisa Celal Bayar University.
   <img src="https://github-readme-stats.vercel.app/api?username=mtaltn&&show_icons=true&theme=dark&line_height=27&v=5" width=450 alt="mtaltn's GitHub Stats" /><br>
  </p>
 <p>
- <img src="https://profile-counter.glitch.me/CYB3RMX/count.svg" />
+ <img src="https://profile-counter.glitch.me/mtaltn/count.svg" />
  </p>
