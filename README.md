@@ -8,7 +8,7 @@ Software engineering student in Manisa Celal Bayar University.
 <h1>Contact</h1>
 
 
-<a href="https://www.linkedin.com/in/mtaltn/"><img title="Linkedin" src="https://i.hizliresim.com/4dhsc2e.png" width=20></a>
+<a href="https://www.linkedin.com/in/mehmet-tekin-altun-1b6a30176/"><img title="Linkedin" src="https://i.hizliresim.com/4dhsc2e.png" width=20></a>
 <a href="mailto:mehmettekinaltun@gmail.com"><img title="Linkedin" src="https://img.shields.io/badge/-mehmettekinaltun@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mehmettekinaltun@gmail.com"></a>
 
  <p align="center">
