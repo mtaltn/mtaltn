@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Who am i</h1>
  
-Software engineering student in Manisa Celal Bayar University.
+I'm a Software Engineering
 
 
 
