@@ -1,7 +1,7 @@
 <div align="center">
 <h1>Who am i</h1>
  
-I'm a Software Engineering
+I'm a Software Engineer
 
 
 
