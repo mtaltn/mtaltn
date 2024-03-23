@@ -9,7 +9,7 @@
 
 
 <p align="left">
-<a href="https://linkedin.com/in/mehmet-tekin-altun-1b6a30176/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmet-tekin-altun-1b6a30176/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mehmettekinaltun/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehmet-tekin-altun-1b6a30176/" height="30" width="40" /></a>
 </p>
 <a href="mailto:mehmettekinaltun@gmail.com"><img title="Gmail" src="https://img.shields.io/badge/-mehmettekinaltun@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mehmettekinaltun@gmail.com"></a>
 
